@@ -1,4 +1,4 @@
-```markdown
+
 # Guia Prático: Como Conseguir Seu Primeiro Estágio na Área de Programação
 
 ---
